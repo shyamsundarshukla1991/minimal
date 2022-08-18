@@ -1,6 +1,17 @@
-title: Minimal theme
+title: <p align="center"> Shyam Sundar Shukla </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="https://github.com/shyamsundarshukla1991">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Machine learning & NLP related problems.
+  I also have experience with backend development of Python flask applications
+   and software development experience in python and UI development in PyQt (7yrs Exp)
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
